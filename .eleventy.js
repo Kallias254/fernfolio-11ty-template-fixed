@@ -21,9 +21,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", readableDateFilter);
   eleventyConfig.addFilter("machineDate", machineDateFilter);
   eleventyConfig.addFilter("svg", svgFilter);
-  eleventyConfig.addFilter("resolvePath", function (path) {
-    return path.startsWith("/") ? path.slice(1) : path;
-  });
+  // eleventyConfig.addFilter("resolvePath", function (path) {
+  //   return path.startsWith("/") ? path.slice(1) : path;
+  // });
 
   // Shortcodes
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
