@@ -18,7 +18,7 @@ With a background in business administration and certification in project manage
 * Tech-savvy solutions
 * Proactive problem-solving
 
-**Core Skills:**
+### **Core Skills:**
 
 * Project Management (Asana, Trello)
 * Email Management & Customer Service
@@ -27,7 +27,7 @@ With a background in business administration and certification in project manage
 * Documentation & SOP Creation
 * Basic Bookkeeping (QuickBooks)
 
-**Industries Served:**
+### **Industries Served:**
 
 * Technology Startups
 * E-commerce Businesses
