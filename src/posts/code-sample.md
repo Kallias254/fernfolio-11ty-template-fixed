@@ -14,6 +14,7 @@ tags:
   - VATools
   - ClickUp
   - Zapier
+blogImage: /assets/img/fern-forest.jpeg
 ---
 As businesses increasingly move online, Virtual Assistants need to stay ahead of the curve with the right digital tools. Here are five essential tools that will make you an invaluable asset to any business in 2024.
 
