@@ -33,4 +33,4 @@ With a background in business administration and certification in project manage
 * Professional Services
 * Creative Agencies
 
-![Sarah Munyoki](src/assets/img/fern-forest.jpeg "Virtual Assistant")
+![SarahMunyoki](src/assets/img/fern-forest.jpeg "VirtualAssistant")
