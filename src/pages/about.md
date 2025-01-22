@@ -19,7 +19,7 @@ With a background in business administration and certification in project manage
 
 **Core Skills:**
 
-* Project Management (Asana, Trello, ClickUp)
+* Project Management (Asana, Trello)
 * Email Management & Customer Service
 * Calendar Management & Scheduling
 * CRM Management (HubSpot, Salesforce)
