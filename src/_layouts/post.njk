@@ -10,6 +10,10 @@ section: post
     </p>
     <hr/>
 
+  {% if blogImage %}
+  <img src="{{ blogImage }}" alt="Blog Image" class="img-fluid">
+{% endif %}
+
     {{ layoutContent | safe }}
 
     {% if tags %}
