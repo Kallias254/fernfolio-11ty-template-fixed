@@ -9,6 +9,7 @@ permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
+profileImage: /assets/img/fern-in-hand.jpeg
 ---
 With a background in business administration and certification in project management, I bring both expertise and enthusiasm to every project. My approach combines:
 
@@ -32,5 +33,3 @@ With a background in business administration and certification in project manage
 * E-commerce Businesses
 * Professional Services
 * Creative Agencies
-
-<img src="/assets/img/fern-in-hand.jpeg" alt="Fern" class="img-fluid">
