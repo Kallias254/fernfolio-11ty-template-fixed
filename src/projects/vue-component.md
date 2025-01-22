@@ -2,9 +2,11 @@
 title: Startup Launch Support
 emoji: 🗓
 date: 2019-01-01T00:00:00.000Z
-summary: An educational resource and service package helping new freelancers
-  establish their professional online presence through structured portfolio
-  templates, domain setup assistance, and ongoing support.
+summary: |-
+  Industry: Technology
+  Type: Operations Setup
+  Team Size: 12 people
+  Tools Used: Asana, HubSpot, Slack
 metaDescription: Comprehensive backend management for tech startup launch,
   including CRM implementation and cross-timezone team coordination, resulting
   in ahead-of-schedule delivery.
