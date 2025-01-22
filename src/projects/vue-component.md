@@ -1,19 +1,27 @@
 ---
-title: Vue Date Picker
+title: Startup Launch Support
 emoji: 🗓
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
 date: 2019-01-01T00:00:00.000Z
-summary: This is a Vue component I made
+summary: An educational resource and service package helping new freelancers
+  establish their professional online presence through structured portfolio
+  templates, domain setup assistance, and ongoing support.
+metaDescription: Comprehensive backend management for tech startup launch,
+  including CRM implementation and cross-timezone team coordination, resulting
+  in ahead-of-schedule delivery.
 tags:
-  - javascript
-  - vue
-  - aws
+  - ProjectManagement
+  - TeamCoordination
+  - TimeManagement
+  - RemoteWork
 ---
+**Client:** X Inc.\
+**Duration:** 3 months\
+**Summary:** Led complete backend administrative setup for an early-stage tech startup, streamlining operations from day one.
 
-### Task
+**Key Responsibilities:**
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+* Calendar and email management
+* CRM setup and maintenance
+* Team coordination across 3 time zones
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+**Result:** Successful launch completed 2 weeks ahead of schedule
