@@ -131,28 +131,73 @@ collections:
               required: false,
             }
 
-      # About page
-      - label: "About Page"
-        name: "about"
-        file: "src/pages/about.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: Subtitle, name: subtitle, widget: string, required: false }
-          - { label: "Body", name: "body", widget: "markdown", required: false }
-          - {
-              label: "Meta Description",
-              name: "metaDescription",
-              widget: "text",
-              required: false,
-            }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Permalink", name: "permalink", widget: "string" }
-          - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
-            name: "eleventyNavigation"
-            widget: "object"
+          # About page
+          # - label: "About Page"
+          #   name: "about"
+          #   file: "src/pages/about.md"
+          #   fields:
+          #     - { label: "Title", name: "title", widget: "string" }
+          #     - { label: Subtitle, name: subtitle, widget: string, required: false }
+          #     - { label: "Body", name: "body", widget: "markdown", required: false }
+          #     - {
+          #         label: "Meta Description",
+          #         name: "metaDescription",
+          #         widget: "text",
+          #         required: false,
+          #       }
+          #     - { label: "Publish Date", name: "date", widget: "datetime" }
+          #     - { label: "Permalink", name: "permalink", widget: "string" }
+          #     - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
+          #       name: "eleventyNavigation"
+          #       widget: "object"
+          #       fields:
+          #         - { label: "Key", name: "key", widget: "string" }
+          #         - { label: "Order", name: "order", widget: "number", default: 0 }
+          # About page
+          - label: "About Page"
+            name: "about"
+            file: "src/pages/about.md"
             fields:
-              - { label: "Key", name: "key", widget: "string" }
-              - { label: "Order", name: "order", widget: "number", default: 0 }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: Subtitle,
+                  name: subtitle,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: "Profile Image",
+                  name: "profileImage",
+                  widget: "image",
+                  required: false,
+                  allow_multiple: false,
+                  hint: "Select or upload an image for your about page",
+                }
+              - {
+                  label: "Body",
+                  name: "body",
+                  widget: "markdown",
+                  required: false,
+                }
+              - {
+                  label: "Meta Description",
+                  name: "metaDescription",
+                  widget: "text",
+                  required: false,
+                }
+              - { label: "Publish Date", name: "date", widget: "datetime" }
+              - { label: "Permalink", name: "permalink", widget: "string" }
+              - label: "Navigation" # https://www.11ty.dev/docs/plugins/navigation/
+                name: "eleventyNavigation"
+                widget: "object"
+                fields:
+                  - { label: "Key", name: "key", widget: "string" }
+                  - {
+                      label: "Order",
+                      name: "order",
+                      widget: "number",
+                      default: 0,
+                    }
 
       # Blog Page
       - label: "Blog Page"
