@@ -1,5 +1,6 @@
 ---
 title: This is the second example post
+blogImage: /assets/img/fern-in-hand.jpeg
 date: 2020-01-01T08:00:00.000Z
 summary: Bring to the table win-win survival strategies to ensure proactive domination.
 tags:

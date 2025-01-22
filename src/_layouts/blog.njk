@@ -7,6 +7,9 @@ permalink: /blog/index.html
   <h1>{{title}}</h1>
   {{ layoutContent | safe }}
 	<hr/>
+	    {% if blogImage %}
+        <img src="{{ blogImage }}" alt="Blog Image" class="img-fluid">
+    {% endif %}
 
   {# Article List #}
   {% from "macros/articlelist.njk" import articlelist %}
