@@ -15,11 +15,15 @@ tags:
   - SpeakerManagement
   - ProjectManagement
 ---
-**Client:** GlobalTech Summit 
+### **Client:** 
 
-**Duration:** 2 months
+GlobalTech Summit 
 
-**Key Responsibilities:**
+### **Duration:** 
+
+2 months
+
+### **Key Responsibilities:**
 
 * Coordinated virtual event for 200+ attendees
 * Managed speaker schedules and technical setup
@@ -27,7 +31,11 @@ tags:
 * Facilitated live Q&A sessions
 * Managed event platform and technical support
 
-**P﻿roject Overview**
+### **Result:** 
+
+98% attendee satisfaction rate, zero technical disruptions
+
+### **P﻿roject Overview**
 
 * Industry: Tech/Events
 * Type: Virtual Conference
