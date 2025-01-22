@@ -15,19 +15,25 @@ tags:
   - TimeManagement
   - RemoteWork
 ---
-**Client:** X Inc.\
-**Duration:** 3 months\
-**Summary:** Led complete backend administrative setup for an early-stage tech startup, streamlining operations from day one.
+### **Client:** 
 
-**Key Responsibilities:**
+X Inc.(omitted for privacy)
+
+### **Duration:** 
+
+3 months
+
+### **Key Responsibilities:**
 
 * Calendar and email management
 * CRM setup and maintenance
 * Team coordination across 3 time zones
 
-**Result:** Successful launch completed 2 weeks ahead of schedule
+### **Result:** 
 
-**P﻿roject Overview**
+Successful launch completed 2 weeks ahead of schedule
+
+### **P﻿roject Overview**
 
 * Industry: Technology
 * Type: Operations Setup
