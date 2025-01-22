@@ -33,4 +33,4 @@ With a background in business administration and certification in project manage
 * Professional Services
 * Creative Agencies
 
-![Fern](/assets/img/fern-in-hand.jpeg "Fern")
+{% image "/assets/img/fern-in-hand.jpeg", "Fern", "100vw" %}
