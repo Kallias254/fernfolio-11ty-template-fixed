@@ -1,18 +1,30 @@
 ---
-title: Another NPM Package
-emoji: 💾
-metaDescription: This is a sample meta description. If one is not present in your page/project's front matter, the default metadata.desciption will be used instead.
+title: Virtual Conference Planning & Execution
+emoji: 🚀
 date: 2019-01-01T00:00:00.000Z
-summary: This is an NPM package I made
+summary: |-
+  Industry: Tech/Events
+  Type: Virtual Conference
+  Attendees: 200+
+  Tools Used: Zoom, Slack, Hopin
+metaDescription: Comprehensive backend management for tech startup launch,
+  including CRM implementation and cross-timezone team coordination, resulting
+  in ahead-of-schedule delivery.
 tags:
-  - javascript
-  - node
+  - EventManagement
+  - VirtualConference
+  - TechnicalCoordination
+  - SpeakerManagement
+  - ProjectManagement
 ---
+**Client:** GlobalTech Summit 
 
-### Task
+**Duration:** 2 months
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**Key Responsibilities:**
 
-### Solution
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+* Coordinated virtual event for 200+ attendees
+* Managed speaker schedules and technical setup
+* Handled post-event follow-up and feedback collection
+* Facilitated live Q&A sessions
+* Managed event platform and technical support
