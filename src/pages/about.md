@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Your Virtual Partner in Business Excellence
-profileImage: /assets/img/fern-forest.jpeg
+profileImage: /assets/img/munyoki.jpg
 metaDescription: Experienced Virtual Assistant specializing in project
   management, systems optimization, and administrative support. 3+ years of
   helping businesses streamline operations and achieve growth.
