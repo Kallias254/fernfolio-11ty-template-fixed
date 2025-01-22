@@ -33,4 +33,4 @@ With a background in business administration and certification in project manage
 * Professional Services
 * Creative Agencies
 
-{% image "/assets/img/fern-in-hand.jpeg", "Fern", "100vw" %}
+<img src="/assets/img/fern-in-hand.jpeg" alt="Fern" class="img-fluid">
