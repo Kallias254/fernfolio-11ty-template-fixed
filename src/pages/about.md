@@ -33,4 +33,4 @@ With a background in business administration and certification in project manage
 * Professional Services
 * Creative Agencies
 
-![Fern](/assets/img/munyoki.jpg "Fern")
+![Fern](/src/assets/img/munyoki.jpg "Fern")
