@@ -184,6 +184,15 @@ collections:
             fields:
               - { label: "Key", name: "key", widget: "string" }
               - { label: "Order", name: "order", widget: "number", default: 0 }
+          - label: "Blog Image"
+            name: "blogImage"
+            widget: "image"
+            required: false
+            media_folder: "/assets/img"
+            public_folder: "/assets/img"
+            media_library:
+              config:
+                multiple: false
 
       # Projects Page
       - label: "Projects Page"
