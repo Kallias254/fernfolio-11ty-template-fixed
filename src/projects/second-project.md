@@ -1,6 +1,6 @@
 ---
 title: Virtual Conference Planning & Execution
-emoji: 🚀
+emoji: "🎯 "
 date: 2019-01-01T00:00:00.000Z
 summary: Seamlessly coordinated a virtual conference for 200+ tech
   professionals, managing speaker logistics and technical execution. Delivered
