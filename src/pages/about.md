@@ -1,6 +1,7 @@
 ---
 title: About Me
 subtitle: Your Virtual Partner in Business Excellence
+profileImage: /assets/img/fern-forest.jpeg
 metaDescription: Experienced Virtual Assistant specializing in project
   management, systems optimization, and administrative support. 3+ years of
   helping businesses streamline operations and achieve growth.
@@ -9,7 +10,6 @@ permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 1
-profileImage: /assets/img/fern-in-hand.jpeg
 ---
 With a background in business administration and certification in project management, I bring both expertise and enthusiasm to every project. My approach combines:
 
