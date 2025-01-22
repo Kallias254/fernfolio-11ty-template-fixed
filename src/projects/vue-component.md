@@ -1,6 +1,6 @@
 ---
 title: Startup Launch Support
-emoji: 🗓
+emoji: 🚀
 date: 2019-01-01T00:00:00.000Z
 summary: Orchestrated the complete backend setup for a tech startup, managing
   everything from CRM implementation to cross-timezone team coordination.
