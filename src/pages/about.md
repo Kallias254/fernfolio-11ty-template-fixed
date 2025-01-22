@@ -33,4 +33,4 @@ With a background in business administration and certification in project manage
 * Professional Services
 * Creative Agencies
 
-![Sarah Munyoki](src/assets/img/munyoki.jpg "Sarah Munyoki Virtual Assistant")
+![Sarah Munyoki](src/assets/img/logo.png "Sarah Munyoki Virtual Assistant")
