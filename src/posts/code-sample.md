@@ -1,5 +1,6 @@
 ---
 title: "# 5 Tools Every VA Should Master in 2024"
+blogImage: /assets/img/fern-forest.jpeg
 date: 2019-01-01T00:00:00.000Z
 summary: Discover the top 5 essential tools for Virtual Assistants in 2024,
   including ClickUp, Loom, HubSpot CRM, TextExpander, and Zapier. Learn how
@@ -14,7 +15,6 @@ tags:
   - VATools
   - ClickUp
   - Zapier
-blogImage: /assets/img/fern-forest.jpeg
 ---
 As businesses increasingly move online, Virtual Assistants need to stay ahead of the curve with the right digital tools. Here are five essential tools that will make you an invaluable asset to any business in 2024.
 
