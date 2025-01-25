@@ -15,11 +15,11 @@ tags:
   - TimeManagement
   - RemoteWork
 ---
-### **Client:** 
+### **Client:**
 
 X Inc.(omitted for privacy)
 
-### **Duration:** 
+### **Duration:**
 
 3 months
 
@@ -29,7 +29,7 @@ X Inc.(omitted for privacy)
 * CRM setup and maintenance
 * Team coordination across 3 time zones
 
-### **Result:** 
+### **Result:**
 
 Successful launch completed 2 weeks ahead of schedule
 
@@ -37,5 +37,5 @@ Successful launch completed 2 weeks ahead of schedule
 
 * Industry: Technology
 * Type: Operations Setup
-* Team Size: 12 people
+* Team Size: 100 people
 * Tools Used: Asana, HubSpot, Slack
