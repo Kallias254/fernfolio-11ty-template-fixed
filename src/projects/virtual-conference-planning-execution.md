@@ -2,7 +2,7 @@
 title: Virtual Conference Planning & Execution
 emoji: 🎯
 date: 2025-01-27T09:06:08.662Z
-summary: A short summary of the project
+summary: A short summary of the project. Around 100 words.
 metaDescription: a metadescription of the page. Ask Chat GPT for guidance on this
 tags:
   - VA
