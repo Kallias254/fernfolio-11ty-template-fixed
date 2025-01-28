@@ -1,5 +1,5 @@
 ---
-title: How a Virtual Business Partner Maximizes Efficiency
+title: How a Virtual Business Partner Maximizes Efficiency 2
 date: 2020-10-15T12:23:39.598Z
 blogImage: /assets/img/rene-bohmer-yeuvdkzwsz4-unsplash-1-1-.jpg
 summary: This article highlights how businesses can boost efficiency with
